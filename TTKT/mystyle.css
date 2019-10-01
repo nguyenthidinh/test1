@@ -1,0 +1,125 @@
+li
+{
+    margin-left:10px;
+    width:100px;
+    text-align:center;
+}
+ul
+{
+    list-style-type:none;
+}
+body
+{
+    font-family:IBM Plex Sans, sans-serif;
+    font-size:14px;
+}
+img{
+    margin-left:6px;
+}
+.dangnhap
+{
+    float:left;
+    height:auto;
+     margin-left:30px;
+     margin-top:66px;
+     font-family:IBM Plex Sans, sans-serif;
+}
+.signup
+{
+    float:left;
+    height:auto;
+     margin-left:40px;
+     margin-top:90px;
+     font-family:IBM Plex Sans, sans-serif;
+}
+.signin
+{
+    display: block;
+    width: 100%;
+    height: calc(1.5em + 0.9375rem + 2px);
+    padding: 0.46875rem 0.625rem;
+    font-size: 0.875rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #596882;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #c0ccda;
+    border-radius: 0.25rem;
+    transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+
+}
+.button
+{
+
+text-align:center;
+
+    border-radius: 0.25rem;
+    display: block;
+    width: 100%;
+    height: calc(1.5em + 0.9375rem + 2px);
+    
+}
+.btn-signin
+{
+    background-color:#042893;
+    border: 1px solid #c0ccda;
+    color:white;
+}
+.btn-signin:hover
+{
+    background-color:#0168fa;
+}
+.btn-face
+{
+    border: 1px solid #4064AC;
+    background-color:white;
+    color:#4064AC;
+}
+.btn-face:hover{
+    background-color:#5b47fb;
+    color:white;
+}
+.btn-twitter
+{
+    border: 1px solid #00A7E6;
+    background-color:white;
+    color:#00A7E6;
+}
+.btn-twitter:hover{
+    background-color:#00b8d4;
+    color:white;
+}
+.btn-buynow
+{
+    border: 2px solid #0168FA;
+    width: 118px;
+    display: initial;
+    background-color:white;
+    color:#0168FA;
+    font-size:15px;
+    font-weight: bold;
+}
+.footer
+{
+display:-webkit-box;
+float:right;
+margin-top:18px;
+
+}
+.footer li a{
+    text-decoration:none;
+    color:#1B2E4B;
+}
+.btn-buynow:hover{
+color:white;
+background-color:blue;
+}
+.header{
+    margin-top: -8px;
+    position: fixed;
+    width: 1301;
+    height: 60;
+    background-color: white;
+    border-bottom: 1px solid #8392a5;
+}
